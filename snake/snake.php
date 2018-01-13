@@ -99,7 +99,7 @@ $l = 0;
   }
 
   echo "Получившейся массив: <br/>";
-  $end_array = snake($n, $n2, $field) ."<br/>" ;
+  snake($n, $n2, $field) ."<br/>" ;
 
 ?>
 
